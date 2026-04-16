@@ -1,0 +1,2 @@
+def saludo(a):
+    print (f"Hola {a}")
